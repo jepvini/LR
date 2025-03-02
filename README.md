@@ -25,17 +25,17 @@
 ## Changes made
 #### [`Full Parameters List`](https://ardupilot.org/plane/docs/parameters.html)
 
-FC
+*FC*
 - AHRS_ORIENTATION,20 -> fc rolled by 270 deg
 - ARMING_CHECK,0 -> **to be changed**
----
-SERIAL 1
+
+*SERIAL 1*
 - SERIAL1_BAUD,115 -> elrs documentation
----
-SERIAL 4
+
+*SERIAL 4*
 - SERIAL4_BAUD,57 -> mlrs documentation
 - SERIAL4_PROTOCOL,2 -> mavilink2
----
-FLTMODE
+
+*FLTMODE*
 - FLTMODE_CH,12 -> elrs documentation
 - FLTMODE1,10 -> auto
