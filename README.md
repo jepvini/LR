@@ -39,3 +39,6 @@
 *FLTMODE*
 - FLTMODE_CH,12 -> elrs documentation
 - FLTMODE1,10 -> auto
+
+*ARSPD*
+- ARSPD_TYPE,0 -> disables airspeed sensor
